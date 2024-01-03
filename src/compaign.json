@@ -1,0 +1,80 @@
+[
+  {
+    "id": "camp-1",
+    "name": "Boat",
+    "from": "2024-01-02T00:00Z",
+    "to": "2024-01-20T00:00Z",
+    "steps": [
+      {
+        "id": 2,
+        "name": "Mail 2/2",
+        "from": "2024-01-04T00:00Z",
+        "to": "2024-01-06T00:00Z",
+        "type": "step"
+      },
+      {
+        "id": 2,
+        "name": "Mail 2/2",
+        "from": "2024-01-06T04:00Z",
+        "to": "2024-01-08T08:00Z",
+        "type": "block"
+      }
+    ]
+  },
+ {
+  "id": "camp-2",
+  "name": "Second campaign",
+  "type": "Hematology",
+  "from": "2024-01-07T00:00Z",
+  "to": "2024-01-15T00:00Z",
+  "steps": [
+    {
+      "id": 5,
+      "name": "SMS",
+      "from": "2024-01-07T00:00Z",
+      "to": "2024-01-09T00:00Z",
+      "type": "step"
+    }
+  ]
+},
+  {
+    "id": "camp-3",
+    "name": "Third campaign",
+    "from": "2024-01-10T00:00Z",
+    "to": "2024-01-15T00:00Z",
+    "steps": [
+      {
+        "id": 7,
+        "phase": "Preparation",
+        "name": "Mail 1/9",
+        "from": "2024-01-10T00:00Z",
+        "to": "2024-01-15T00:00Z",
+        "type": "step"
+      },
+      {
+        "id": 8,
+        "phase": "Preparation",
+        "name": "Mail 2/9",
+        "from": "2024-01-15T00:00Z",
+        "to": "2024-01-15T00:00Z",
+        "type": "step"
+      },
+      {
+        "id": 9,
+        "phase": "Preparation",
+        "name": "Mail 3/9",
+        "from": "2024-01-07T05:00Z",
+        "to": "2024-01-09T20:00Z",
+        "type": "step"
+      },
+{
+  "id": 9,
+  "phase": "Preparation",
+  "name": "Mail 3/9",
+  "from": "2024-01-12T05:00Z",
+  "to": "2024-01-20T20:00Z",
+  "type": "step"
+}
+    ]
+  }
+]

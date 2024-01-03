@@ -1,0 +1,25 @@
+.fc-datagrid-expander {
+  position: absolute;
+  right: 0px;
+}
+.fc-theme-standard td{
+    border: none !important;
+}
+
+tr td .odd-date{
+    background: #F8F8F8 !important;
+}
+tr td .even-date{
+    background: #FFF !important;
+}
+.fc-theme-standard th{
+    border: none;
+}
+.fc .fc-resource-timeline-divider {
+    cursor: col-resize;
+    width: 16px;
+    background: white;
+}
+.fc-theme-standard .fc-scrollgrid{
+    border: none;
+}
